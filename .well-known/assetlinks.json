@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/commmon.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mhelp.smitesh.shende",
+      "sha256_cert_fingerprints": [
+        "01:22:3D:FA:DA:80:85:B9:BD:9E:44:DB:B9:D8:83:07:93:C2:D2:2B:16:81:C9:10:DA:FB:8F:57:FD:78:68:14"
+      ]
+    }
+  }
+]
